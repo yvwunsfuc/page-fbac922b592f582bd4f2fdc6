@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fd74edc7768226480adc626e",
+  "owner": "yvwunsfuc",
+  "repo": "page-fbac922b592f582bd4f2fdc6",
+  "title": "奔星云(To)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fbac922b592f582bd4f2fdc6",
+      "a": "奔星云(To)",
+      "b": "",
+      "entity": "奔星云(To)",
+      "brand": "奔星云(To)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c8f2707cbe8da8062fe2b9aac73295c3b7c8900cd94be1889aedd98ffa62157e",
+      "content": {
+        "keyword1": "奔星云(To)",
+        "keyword2": "",
+        "primary_entity": "奔星云(To)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "奔星云(To)提供稳定的 VPN 加速与机场订阅服务，覆盖办公、流媒体与游戏场景，支持多端客户端官方下载及基础版、旗舰版、团队版套餐。",
+          "AI_DESCRIPTION": "奔星云(To)提供稳定的 VPN 加速与机场订阅服务，覆盖办公、流媒体与游戏场景，支持多端客户端官方下载及基础版、旗舰版、团队版套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071525;color:#e8f4f8;font-size:16px;line-height:1.75}a{color:#2ee6d6;text-decoration:none}a:hover{text-decoration:underline}header{background:#0c2340;border-bottom:1px solid #1a4a66;padding:14px 16px}header .bar{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between}header .logo{font-weight:700;font-size:1.25rem;color:#2ee6d6}header nav{display:flex;flex-wrap:wrap;gap:10px 16px}header nav a{color:#e8f4f8}main{display:block}h1,h2,h3{line-height:1.35;color:#ffffff}h1{font-size:1.85rem;margin:0 0 12px}h2{font-size:1.45rem;margin:0 0 12px;border-left:4px solid #2ee6d6;padding-left:10px}h3{font-size:1.12rem;margin:16px 0 8px;color:#2ee6d6}.hero,.block{padding:28px 16px}.wrap{max-width:1080px;margin:0 auto}.hero{background:linear-gradient(180deg,#0c2340 0%,#071525 100%)}.lead{color:#9bb8c4;font-size:1.05rem;max-width:46em}.section{display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start;padding:8px 0 12px}.section.reverse{flex-direction:row-reverse}.text,.panel{flex:1 1 280px;min-width:0}.panel{background:#0e2a45;border:1px solid #1a4a66;border-radius:12px;padding:18px 16px}.panel ul,.text ul{margin:8px 0 0;padding-left:1.2em}.panel li,.text li{margin:6px 0}.muted{color:#9bb8c4}.plans{display:flex;flex-wrap:wrap;gap:16px;margin-top:8px}.plan{flex:1 1 240px;background:#0e2a45;border:1px solid #1a4a66;border-radius:12px;padding:18px 16px;min-width:0}.plan.featured{border:2px solid #2ee6d6;background:#10324f}.plan .name{font-size:1.2rem;font-weight:700;margin:0 0 6px}.plan .price{font-size:1.35rem;color:#2ee6d6;font-weight:700}.plan .annual{color:#9bb8c4;font-size:0.95rem;margin:4px 0 12px}.tag{display:inline-block;background:#2ee6d6;color:#071525;font-size:0.78rem;font-weight:700;padding:2px 8px;border-radius:999px;margin-left:6px}.cta{display:inline-block;margin-top:12px;background:#2ee6d6;color:#071525;font-weight:700;padding:8px 14px;border-radius:8px}.cta:hover{text-decoration:none}.steps{counter-reset:step}.steps h3{counter-increment:step}.steps h3::before{content:counter(step) \". \"}#faq details{background:#0e2a45;border:1px solid #1a4a66;border-radius:10px;padding:10px 14px;margin:10px 0}#faq summary{font-weight:700;color:#ffffff}#faq details p{margin:8px 0 4px;color:#d5e8ef}footer{background:#05101c;border-top:1px solid #1a4a66;padding:28px 16px 40px;color:#9bb8c4}footer h2{font-size:1.1rem;border:none;padding:0;color:#2ee6d6}footer ul{margin:8px 0 16px;padding-left:1.2em}footer .grid{display:flex;flex-wrap:wrap;gap:20px}footer .col{flex:1 1 200px;min-width:0}.friends a{display:inline-block;margin:0 12px 8px 0}.note{font-size:0.92rem}@media (max-width:720px){.section,.section.reverse{flex-direction:column}h1{font-size:1.55rem}header .bar{flex-direction:column;align-items:flex-start}}</style><header><div class=\"bar\"><div class=\"logo\"><a href=\"#\">奔星云(To)</a></div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">使用说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">FAQ</a></nav></div></header><main><section class=\"hero\" id=\"top\"><div class=\"wrap\"><h1>奔星云(To) 官方网站</h1><p class=\"lead\">奔星云是面向跨境办公、流媒体与协作访问的 VPN 加速器与机场订阅服务。本页说明套餐差异、订阅导入方式，并提供各系统客户端的官方下载入口，帮助你按需选择线路与设备配额。</p><p><a class=\"cta\" href=\"#plans\">查看套餐对比</a> <a class=\"cta\" href=\"#download\">前往官方下载</a></p></div></section><section class=\"block\" id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><div class=\"section\"><div class=\"text\"><p>奔星云(To)把加密隧道、智能分流和可预期的流量套餐放在同一套服务里。个人用户可以按月或按年开通，小团队则能用统一订阅管理多台设备。官方网站只发布套餐规则、操作说明与客户端获取路径，避免把配置散落在来源不明的页面。</p><p class=\"muted\">服务能力围绕三件事：连接稳定、规则清晰、客户端可核验。旗舰版起提供 IPLC 游戏向优化与更完整的流媒体解锁；团队版增加高带宽节点与定制路由，适合多人同时在线。</p></div><div class=\"panel\"><h3>你可以直接确认的信息</h3><ul><li>品牌名称：奔星云(To)</li><li>定位：VPN 加速器 / 机场订阅</li><li>官方网站用途：套餐、教程、客户端下载</li><li>设备策略：按套餐限制同时在线台数</li><li>流量策略：按月额度，极速节点池调度</li></ul></div></div></div></section><section class=\"block\" id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"section reverse\"><div class=\"text\"><p>把加速用在真正需要跨境链路的应用上，国内常用支付与视频建议直连，以节省流量并降低延迟。以下场景与套餐能力对应，便于对照购买。</p><h3>办公与研究</h3><p>远程会议、云文档、代码托管与公开资料检索，走加密通道可减少中途重置。基础版即可覆盖轻量办公；多人同时开会建议旗舰版或团队版。</p><h3>流媒体与内容创作</h3><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁，更适合长时间观看或素材下载。</p></div><div class=\"panel\"><h3>典型用法清单</h3><ul><li>跨境远程会议与协作文档</li><li>学术网页与公开数据库访问</li><li>主流流媒体点播（范围随套餐变化）</li><li>在线游戏延迟优化（旗舰版 IPLC）</li><li>小团队统一出口与企业定制路由</li></ul></div></div></div></section><section class=\"block\" id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><div class=\"section\"><div class=\"text steps\"><h3>选择套餐并开通</h3><p>对照流量、设备数与线路类型下单。年付价格按 10 个月计，适合长期使用。开通后在用户中心生成订阅地址，请妥善保存，不要把订阅公开转发。</p><h3>下载并安装客户端</h3><p>Windows、macOS、Android、iOS 以及 Clash 兼容核心均可使用。请只通过本站<a href=\"#download\">官方下载</a>区域获取安装包或配置说明，避免修改版客户端导致订阅泄露。</p><h3>导入订阅并更新节点</h3><p>将订阅链接粘贴到客户端的订阅栏，执行更新。列表出现后，按延迟或用途筛选：浏览选普通线路，游戏选 IPLC（旗舰版及以上），视频选带流媒体标识的节点。</p><h3>连接与分流</h3><p>首次连接建议开启系统代理或 Tun。将国内银行、支付与视频设为直连，其余走代理。若某一节点超时，切换同区域备用线路即可，无需反复重装。</p></div><div class=\"panel\"><h3>连接前检查</h3><ul><li>系统时间正确，避免证书校验失败</li><li>关闭冲突的旧代理扩展</li><li>订阅更新成功后再选择节点</li><li>移动网络与 Wi-Fi 分别测试一次</li><li>团队用户先确认设备台数未超限</li></ul></div></div></div></section><section class=\"block\" id=\"plans\"><div class=\"wrap\"><h2>套餐对比</h2><p class=\"muted\">价格与额度如下。旗舰版覆盖大多数个人与轻团队需求，强调流媒体解锁与游戏向专线；流量按自然月计算，设备数为同时在线上限。</p><div class=\"plans\"><article class=\"plan\"><p class=\"name\">基础版</p><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#download\">去下载客户端</a></p></article><article class=\"plan featured\"><p class=\"name\">旗舰版<span class=\"tag\">推荐</span></p><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#download\">去下载客户端</a></p></article><article class=\"plan\"><p class=\"name\">团队版</p><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#download\">去下载客户端</a></p></article></div></div></section><section class=\"block\" id=\"download\"><div class=\"wrap\"><h2>客户端官方下载</h2><div class=\"section reverse\"><div class=\"text\"><p>奔星云订阅兼容常见代理客户端。安装完成后导入订阅即可拉取节点，无需手工填写单个服务器。若系统已有 Clash / sing-box 内核，也可只更新配置。</p><h3>桌面端</h3><p>Windows 与 macOS 提供图形客户端，支持系统代理与 Tun。导入后可按规则分流。请从下方入口进入对应系统说明页。</p><h3>移动端</h3><p>Android 与 iOS 使用官方或兼容客户端导入订阅。iOS 侧请使用系统允许的配置方式；Android 建议开启分应用代理，避免耗尽流量。</p></div><div class=\"panel\"><h3>下载入口</h3><ul><li><a href=\"#\">Windows 客户端</a></li><li><a href=\"#\">macOS 客户端</a></li><li><a href=\"#\">Android 客户端</a></li><li><a href=\"#\">iOS 配置说明</a></li><li><a href=\"#\">Clash 兼容配置</a></li></ul><p class=\"note\">以上为官网下载锚点。安装包校验与版本说明以开通后的用户中心为准。</p></div></div></div></section><section class=\"block\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>奔星云(To)是什么服务？</summary><p>奔星云是提供加密网络加速与机场订阅的品牌。用户按套餐获得流量与设备配额，在官方客户端或兼容客户端中导入订阅后选择节点连接，用于办公访问、流媒体与游戏加速等场景。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在本页下载对应系统的客户端，完成安装后登录用户中心复制订阅地址，粘贴到客户端订阅栏并更新节点。更新成功后再连接。不要使用来路不明的安装包，以免订阅被盗用。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度浏览与 3 台以内设备选基础版（100GB）。需要原生流媒体、5 台设备和 IPLC 游戏优化选旗舰版（300GB）。20 台设备、1000GB 与定制路由选团队版。年付相当于 10 个月价格。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版包含基础流媒体解锁与普通节点。旗舰版提供全节点原生流媒体解锁，并针对游戏延迟做 IPLC 专线优化。团队版在此基础上提供 VIP 高带宽节点，更适合多人同时传输。</p></details><details><summary>同时在线设备超限会怎样？</summary><p>超出套餐台数时，新设备可能无法认证或挤占旧会话。请先在客户端退出不用的设备，或升级到更高配额。团队版支持 20 台同时在线，适合工作室共享。</p></details><details><summary>节点变慢或连不上如何处理？</summary><p>先更新订阅，再换同区域其他线路；检查本地时间、防火墙与是否有多个代理叠加。游戏请优先使用旗舰版 IPLC 节点。若持续失败，通过优先工单（旗舰版）或客户经理（团队版）反馈地区与客户端日志。</p></details><details><summary>年付后还能更换套餐吗？</summary><p>年付锁定对应档位的月流量与设备数。需要更多流量或台数时，可在周期内咨询升级差额。降级一般在当前年付周期结束后生效，避免中途折算争议。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"grid\"><div class=\"col\" id=\"ads\"><h2>合作推广</h2><p>信息展示位：跨境协作、企业组网与终端安全类内容合作。推广以文字说明为主，不替代奔星云官方套餐与下载入口。详情见<a href=\"#\">合作说明</a>。</p></div><div class=\"col friends\" id=\"friends\"><h2>友情链接</h2><p><a href=\"#guide\">使用说明</a><a href=\"#plans\">套餐价格</a><a href=\"#download\">官方下载</a><a href=\"#faq\">常见问题</a><a href=\"#\">服务协议</a><a href=\"#\">隐私政策</a></p></div><div class=\"col\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#top\">首页概览</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">FAQ</a></li></ul></div></div><p class=\"note\">© 奔星云(To) 官方网站 · VPN 加速器与机场订阅服务说明页。内容用于介绍套餐、下载与导入流程。</p></div></footer>",
+          "hash": "2d832055b73d775fd3512ad33407b97167fabf91b2f18cd7d135a73843eec1e0",
+          "seo": {
+            "title": "奔星云(To)官网 | 机场订阅与 VPN 加速器客户端下载",
+            "keywords": "奔星云,奔星云To,奔星云VPN,奔星云机场,VPN加速器,梯子,网络加速,机场订阅,客户端下载,官网下载,IPLC加速",
+            "description": "奔星云(To)提供稳定的 VPN 加速与机场订阅服务，覆盖办公、流媒体与游戏场景，支持多端客户端官方下载及基础版、旗舰版、团队版套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "webstep.cn",
+    "host": "p-9628f682f2.webstep.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "webstep.cn",
+      "url": "https://webstep.cn/",
+      "label": "锂云网络(Liuns)",
+      "apex": "webstep.cn",
+      "kind": null,
+      "identity": "jxedmwqn/page-889b5d63d6c77bffec779e46"
+    },
+    {
+      "host": "gxqll.cn",
+      "url": "https://gxqll.cn/",
+      "label": "奔星云(To)",
+      "apex": "gxqll.cn",
+      "kind": null,
+      "identity": "jjjpkymfbak/page-a79b463813e4aacdda80596c"
+    },
+    {
+      "host": "mwbug.cn",
+      "url": "https://mwbug.cn/",
+      "label": "奔星云(To)",
+      "apex": "mwbug.cn",
+      "kind": null,
+      "identity": "kcmgexnmk/page-f0f4b6cf53c0b8fe4c50d833"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9e852d07d88b5f6259170bcedd25c65747aaff1be9fdd7c06409d61e2749f0ce",
+    "sitemap.xml": "a62629f55151f6c66cca5ea5abde8168429afd783f90263a5c20282c6cf4c5c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3b72ead159743be96cf50f7c5d03b0cbd36e1a6ecd89d41e6fa96426b7664b56",
+    "robots.txt": "83aa181a518cd0a5dceaa36615cbc59605977c396a35dd420fdc359c85af3927",
+    "9c5ca5b41679f55c29a00691262df811.txt": "ecb4c5f2d89931ec450a9ab9eed8c7f911ef1c1bb2f56faa8a54a8498cafcb0c"
+  },
+  "revision": "74ab4db08040586187ef5fb4600c3276eed67b59eccc57c6212251eda1c596c7"
+}
